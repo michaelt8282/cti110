@@ -1,0 +1,10 @@
+# CTI 110
+# P3LAB1
+# michaelt
+# 10/22/24
+
+def main():
+    print("This works")
+
+# start the program
+main()
