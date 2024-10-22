@@ -15,14 +15,15 @@ def go_home():
     choice = int(input())
     if choice == 1:
         get_pizza()
-    if choice == 2:
+    elif choice == 2:
         get_chinese()
 
 def get_pizza():
-    pass # replace this
+print("The pizza is great."):
+print("GOOD ENDING")
 
 def get_chinese():
-    pass
+    print("BAD ENDING")
 
 
 # start the program
